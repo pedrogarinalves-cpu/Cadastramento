@@ -42,7 +42,7 @@ public class principal {
         Luta UEC = new Luta();
         UEC.marcarluta(l[2], l[3]);
         UEC.lutar();
-        
+
     }
 }
 
